@@ -13,19 +13,20 @@ I will collect the material for this class here, starting with the brief tutoria
 
 | Topic                                      | Resources                               |
 | ------------------------------------------ | --------------------------------------- |
-| Expectation, Variance, Covariance          | |
-| Modes of Selection                         | |
-| Price Equation                             | |
-| Graphical Analysis of Frequency-Dependence | |
-| Theory of Risk                             | |
-| Certainty Premium                          | |
-| Arrow-Pratt Indices                        | |
-| Logistic Growth Model                      | |
-| Linear Stability Analysis                  | |
-| Linear Stability Analysis: Logistic Model  | |
+| Expectation, Variance, Covariance          | [video](https://youtu.be/Tec3kQ2X8Ss) |
+| Modes of Selection                         | [video](https://youtu.be/uJGowdh6o8o) |
+| Price Equation                             | [video](https://youtu.be/V6WBeWryyLo) |
+| Graphical Analysis of Frequency-Dependence | [video](https://youtu.be/4CDCfKiC_n4) |
+| Theory of Risk                             | [video](https://youtu.be/VlvLzPq3BmA) |
+| Certainty Premium                          | [video](https://youtu.be/HfEyO5U-eQw) |
+| Arrow-Pratt Indices                        | [video](https://youtu.be/OKMmWiXSZk4) |
+| Geometric Growth                           | [video](https://youtu.be/2gVmfX-Cb4k) |
+| Logistic Growth Model                      | [video](https://youtu.be/tLkX2TdPGDg) |
+| Linear Stability Analysis                  | [video](https://youtu.be/I97OnZemmd0) |
+| Linear Stability Analysis: Logistic Model  | [video](https://youtu.be/3dUF0lT6Wmg) |
+| Cobwebbing the Poverty Trap                | [video](https://youtu.be/hB3Vgzn29Vg) |
 | Stability of Model Ecosystems              | |
 | Resilience and Bistability                 | |
-| Cobwebbing the Poverty Trap                | |
 | Catastrophes                               | |
 | Critical Slowing Down                      | |
 | Time Discounting                           | |
